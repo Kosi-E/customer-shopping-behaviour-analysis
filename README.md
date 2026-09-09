@@ -70,9 +70,14 @@ Key fields used in the analysis include:
 - Analyse discount usage alongside customer spending to determine whether discounts are encouraging valuable purchases or unnecessarily reducing revenue.
 - Continue monitoring customer segments and purchasing patterns to identify changes in behaviour over time.
 
+
+## Dashboard Preview
+
+![Customer Shopping Behaviour Dashboard](customer_behaviour_dashboard_screenshot.png)
+
+
 ## Project Files
 
 - [SQL Analysis](Customer_Behaviour.sql)
 - [Power BI Dashboard](Customer%20Behaviour%20Dashboard.pbix)
 - [Dataset](customer_shopping_behavior.csv)
-- [Dashboard Preview](customer-behaviour-dashboard-screenshot.png)
